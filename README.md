@@ -1,4 +1,5 @@
 Brick Breaker Game (Java Console Application)
+
 📌 Project Description
 
 This project is a console-based Brick Breaker Game developed in Java using Low-Level Design (LLD) principles.
